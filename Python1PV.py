@@ -4,8 +4,11 @@ print("Arvaa luku peli, sinulla on kolme arvaus kertaa ! ")
 #Uusikomment
 #Uusikomment
 #Alustetaan tarvittavat muuttujat
+#toimiiko gpg#Alustetaan tarvittavat muuttujat
+#Uusikomment
+#Uusikomment
+#Alustetaan tarvittavat muuttujat
 #toimiiko gpg
-
 
 randomi = random.randint(1, 20)
 laskuri = 3
