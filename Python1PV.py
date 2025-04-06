@@ -1,6 +1,7 @@
 import random
 print("Arvaa luku peli, sinulla on kolme arvaus kertaa ! ")
 #Alustetaan tarvittavat muuttujat
+#Alustetaan tarvittavat muuttujat
 
 randomi = random.randint(1, 20)
 laskuri = 3
